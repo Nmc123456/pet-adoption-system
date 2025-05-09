@@ -1,9 +1,6 @@
 # 🐾 宠物领养系统
 
-[![GitHub license](https://img.shields.io/github/license/Nmc123456/pet-adoption-system)](https://github.com/Nmc123456/pet-adoption-system/blob/main/LICENSE)
-[![Java CI](https://github.com/Nmc123456/pet-adoption-system/actions/workflows/build.yml/badge.svg)](https://github.com/Nmc123456/pet-adoption-system/actions)
-[![Issues](https://img.shields.io/github/issues/Nmc123456/pet-adoption-system)](https://github.com/Nmc123456/pet-adoption-system/issues)
-[![Stars](https://img.shields.io/github/stars/Nmc123456/pet-adoption-system)](https://github.com/Nmc123456/pet-adoption-system/stargazers)
+[![GitHub license](https://github.com/Nmc123456/pet-adoption-system/blob/main/a1.png)
 
 欢迎使用 **宠物领养系统**，这是一个开源项目，旨在为宠物爱好者提供便捷的领养体验，并为管理员提供高效的管理工具。项目基于现代技术栈开发，支持用户端和管理端功能，适用于个人学习或实际部署。
 
